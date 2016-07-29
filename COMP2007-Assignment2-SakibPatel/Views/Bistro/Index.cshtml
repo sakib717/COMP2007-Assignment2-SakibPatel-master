@@ -1,0 +1,19 @@
+﻿@using COMP2007_Assignment2_SakibPatel.Models
+@model IEnumerable<Cuisine>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>Browse Our Cuisines</h3>
+<p>
+    Select From @Model.Count()
+    Variety of Cuisines:
+</p>
+<ul>
+    @foreach (Cuisine item in Model)
+    {
+        <li>@Html.ActionLink(item.Name,"Browse", new { cuisine = item.Name })</li>
+    }
+</ul>
+

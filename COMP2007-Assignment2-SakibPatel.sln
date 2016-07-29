@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP2007-Assignment2-SakibPatel", "COMP2007-Assignment2-SakibPatel\COMP2007-Assignment2-SakibPatel.csproj", "{821FEE26-9207-4E98-84C4-93D94C3FDE42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP2007-Assignment2-SakibPatel.Tests", "COMP2007-Assignment2-SakibPatel.Tests\COMP2007-Assignment2-SakibPatel.Tests.csproj", "{0744BB83-932E-4AC0-915E-EBF52CA9C265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821FEE26-9207-4E98-84C4-93D94C3FDE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821FEE26-9207-4E98-84C4-93D94C3FDE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821FEE26-9207-4E98-84C4-93D94C3FDE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821FEE26-9207-4E98-84C4-93D94C3FDE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0744BB83-932E-4AC0-915E-EBF52CA9C265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0744BB83-932E-4AC0-915E-EBF52CA9C265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0744BB83-932E-4AC0-915E-EBF52CA9C265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0744BB83-932E-4AC0-915E-EBF52CA9C265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
