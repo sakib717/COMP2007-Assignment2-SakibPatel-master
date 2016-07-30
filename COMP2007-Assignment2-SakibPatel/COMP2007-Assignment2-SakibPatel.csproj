@@ -187,6 +187,14 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\images\background.jpg" />
+    <Content Include="Assets\images\banner.png" />
+    <Content Include="Assets\images\banner2.jpg" />
+    <Content Include="Assets\images\banner3.gif" />
+    <Content Include="Assets\images\banner4.jpg" />
+    <Content Include="Assets\images\chinese.jpg" />
+    <Content Include="Assets\images\indian.jpg" />
+    <Content Include="Assets\images\italian.jpg" />
     <Content Include="Assets\images\logo.png" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
